@@ -19,7 +19,7 @@ Simulated 3G/4G/Wi-Fi conditions to validate lag tolerance, reconnection workflo
 5.In-App Purchases:
 Verified UC (Unknown Cash) transactions, reward delivery, and Google Play/App Store compliance.
 
-🏃♂ Temple Run Testing
+🏃 Temple Run Testing
 
 1.Core Gameplay (Swipe Controls):
 Tested swipe gestures (left/right/up/down) for responsiveness, collision detection, and edge-of-path handling.
